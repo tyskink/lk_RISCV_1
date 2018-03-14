@@ -1,0 +1,8 @@
+library verilog;
+
+use verilog.vl_types.all;
+
+entity sc_main is
+
+end sc_main;
+
