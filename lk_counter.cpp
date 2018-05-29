@@ -7,7 +7,7 @@ SC_MODULE(lk_counter)
 {
 	sc_in_clk clock;	//using sc_clock for auto clock time
 	sc_in<sc_logic> reset;
-	sc_in<sc_uint<2> > count_ctrl;	//<	//LK_COUNT_CONTROL_WAIT	LK_COUNT_CONTROL_INCR1	LK_COUNT_CONTROL_DIREC	LK_COUNT_CONTROL_RELAT
+	sc_in<sc_uint<LK_COUNT_CONTROL_BITNUM> > count_ctrl;	//<	//LK_COUNT_CONTROL_WAIT	LK_COUNT_CONTROL_INCR1	LK_COUNT_CONTROL_DIREC	LK_COUNT_CONTROL_RELAT
 	sc_in<sc_uint<LK_COUNTER_ADDRESSING_BIT_NUMBER> > count_data;	//input data: relative or absolute ```````````````````````````````````````````````````````````````````````````````````	`	`address
 	sc_out<sc_uint<LK_COUNTER_ADDRESSING_BIT_NUMBER> > count_out;	//
 

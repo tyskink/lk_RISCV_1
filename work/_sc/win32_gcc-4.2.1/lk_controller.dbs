@@ -1,0 +1,14 @@
+Z                              92
+R;0;0;9;35;1
+R;0;2;12;43;1
+R;0;3;13;41;1
+R;0;4;14;41;1
+E;
+Z5
+S0;opcode
+S2;ctrl_counter
+S1;lk_controller
+S4;ctrl_alu
+S3;ctrl_register
+Z1
+F0;C:/Users/lk2v17/OneDrive - University of Southampton/SystemC/ModelSim/trying/lk_RISCV_1/lk_controller.cpp

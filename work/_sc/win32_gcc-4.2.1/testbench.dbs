@@ -1,7 +1,7 @@
 Z                             990
 R;0;0;8;12;1
 R;0;2;9;18;1
-R;0;3;10;21;1
+R;0;3;10;43;1
 R;0;4;11;52;1
 R;0;5;12;53;1
 R;0;6;14;44;1
@@ -86,5 +86,5 @@ S9;sensitive
 S12;argv
 S13;counter
 Z2
-F0;C:/Users/lk2v17/OneDrive - University of Southampton/SystemC/ModelSim/trying/lk_RISCV_1/lk_counter.cpp
 F1;C:/Users/lk2v17/OneDrive - University of Southampton/SystemC/ModelSim/trying/lk_RISCV_1/testbench.cpp
+F0;C:/Users/lk2v17/OneDrive - University of Southampton/SystemC/ModelSim/trying/lk_RISCV_1/lk_counter.cpp

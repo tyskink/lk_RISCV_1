@@ -7,7 +7,7 @@ SC_MODULE(lk_registers)
 {	sc_in_clk clock;
 	sc_in<sc_logic >reset;
 	sc_in<sc_uint<LK_PM_INS_ADRBIT> >rs1,rs2,rd;
-	sc_in<sc_uint<2> >ctrl;	//control signal for register
+	sc_in<sc_uint<LK_REG_CONTROL_BITNUM> >ctrl;	//control signal for register
 	sc_in<sc_uint<LK_REG_REGBIT> >datain;
 	sc_out<sc_uint<LK_REG_REGBIT> >rs1_o,rs2_o;
 	
