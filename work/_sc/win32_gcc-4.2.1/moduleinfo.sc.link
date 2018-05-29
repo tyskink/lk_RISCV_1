@@ -25,16 +25,16 @@ P0;count_ctrl;12;364;lk_counter.dbs;T5;F2;L10
 P0;count_data;12;472;lk_counter.dbs;T4;F2;L11
 P0;count_out;20;580;lk_counter.dbs;T4;F2;L12
 V0;count_buf;0;696;lk_counter.dbs;T4;F2;L14
-N0;lk_counter;(sc_core::sc_module_name);lk_counter.dbs;F2;L40
 N0;count;();lk_counter.dbs;F2;L17
+N0;lk_counter;(sc_core::sc_module_name);lk_counter.dbs;F2;L40
 
 M11;lk_programmemory;19;12288;384;384;0;0;lk_programmemory.dbs;F3;L6
 B0;sc_core::sc_module;256;0;<NONE>;M6
 P0;pm_address;12;132;lk_programmemory.dbs;T4;F3;L8
 P0;pm_instr;20;240;lk_programmemory.dbs;T4;F3;L9
 V0;pm_reg;0;352;lk_programmemory.dbs;T4;F3;L11
-N0;lk_programmemory;(sc_core::sc_module_name);lk_programmemory.dbs;F3;L24
 N0;programmemory;();lk_programmemory.dbs;F3;L14
+N0;lk_programmemory;(sc_core::sc_module_name);lk_programmemory.dbs;F3;L24
 
 M10;lk_registers;19;12288;2152;2152;0;0;lk_registers.dbs;F0;L6
 B0;sc_core::sc_module;256;0;<NONE>;M6
@@ -48,8 +48,8 @@ P0;datain;12;796;lk_registers.dbs;T4;F0;L11
 P0;rs1_o;20;904;lk_registers.dbs;T4;F0;L12
 P0;rs2_o;20;1016;lk_registers.dbs;T4;F0;L12
 V0;x;0;1128;lk_registers.dbs;T3;F0;L14
-N0;lk_registers;(sc_core::sc_module_name);lk_registers.dbs;F0;L47
 N0;reg;();lk_registers.dbs;F0;L16
+N0;lk_registers;(sc_core::sc_module_name);lk_registers.dbs;F0;L47
 
 T9;sc_clock;30;0;0;0;0;0;<NONE>
 

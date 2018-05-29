@@ -2,13 +2,25 @@
 
 Model Technology ModelSim SE sccom 10.6d compiler 2018.02 Feb 24 2018
 
-} {} {}} {C:/Users/lk2v17/OneDrive - University of Southampton/SystemC/ModelSim/trying/lk_RISCV_1/testbench.cpp} {1 {sccom -work work -stats=none {C:/Users/lk2v17/OneDrive - University of Southampton/SystemC/ModelSim/trying/lk_RISCV_1/testbench.cpp}
+} {} {}} {C:/Users/lk2v17/OneDrive - University of Southampton/SystemC/ModelSim/trying/lk_RISCV_1/testbench.cpp} {1 {sccom -work work -stats=none {C:\Users\lk2v17\OneDrive - University of Southampton\SystemC\ModelSim\trying\lk_RISCV_1\testbench.cpp}
 
 Model Technology ModelSim SE sccom 10.6d compiler 2018.02 Feb 24 2018
 
-C:/Users/lk2v17/OneDrive - University of Southampton/SystemC/ModelSim/trying/lk_RISCV_1/testbench.cpp:82:3: warning: no newline at end of file
+C:\Users\lk2v17\OneDrive - University of Southampton\SystemC\ModelSim\trying\lk_RISCV_1\testbench.cpp:82:3: warning: no newline at end of file
 
 Exported modules:
 	sc_main
+
+} {} {}} {C:/Users/lk2v17/OneDrive - University of Southampton/SystemC/ModelSim/trying/lk_RISCV_1/lk_counter.cpp} {1 {sccom -work work -stats=none {C:\Users\lk2v17\OneDrive - University of Southampton\SystemC\ModelSim\trying\lk_RISCV_1\lk_counter.cpp}
+
+Model Technology ModelSim SE sccom 10.6d compiler 2018.02 Feb 24 2018
+
+} {} {}} {C:/Users/lk2v17/OneDrive - University of Southampton/SystemC/ModelSim/trying/lk_RISCV_1/lk_controller.cpp} {1 {sccom -work work -stats=none {C:/Users/lk2v17/OneDrive - University of Southampton/SystemC/ModelSim/trying/lk_RISCV_1/lk_controller.cpp}
+
+Model Technology ModelSim SE sccom 10.6d compiler 2018.02 Feb 24 2018
+
+} {} {}} {C:/Users/lk2v17/OneDrive - University of Southampton/SystemC/ModelSim/trying/lk_RISCV_1/lk_registers.cpp} {1 {sccom -work work -stats=none {C:/Users/lk2v17/OneDrive - University of Southampton/SystemC/ModelSim/trying/lk_RISCV_1/lk_registers.cpp}
+
+Model Technology ModelSim SE sccom 10.6d compiler 2018.02 Feb 24 2018
 
 } {} {}}

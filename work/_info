@@ -8,5 +8,15 @@ z2
 !i10f 100
 cModel Technology
 Z0 dC:/Users/lk2v17/OneDrive - University of Southampton/SystemC/ModelSim/trying/lk_programmemory
+T_opt
+!s110 1527581763
+Vl3U`c`zN3KC_]g@LdHVEC1
+04 7 0 work sc_main 0
+=1-ffffffff-5b0d0c42-231-14b0
+o-quiet -auto_acc_if_foreign -work work
+tCvgOpt 0
+n@_opt
+OE;O;10.6d;65
 ssc_main
 !s84 1
+R0
